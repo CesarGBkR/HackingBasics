@@ -1,11 +1,6 @@
----
-tags:
-  - Hacking_Basics
-Created: 2023-09-27 22:03
----
 ![[Diseño_sin_título-removebg-preview.png|100]]
 # Description
-Información sobre Shell para el proyecto [[Hacking Basics]] 
+Información sobre que es una Shell y los diferentes tipos para el proyecto **HackingBasics**
 
 # Shell
 ## ¿Qué es?

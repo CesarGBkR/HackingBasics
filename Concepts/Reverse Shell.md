@@ -1,9 +1,3 @@
----
-tags:
-  - "#Hacking_Basics"
-  - "#Reverse_Shell"
-Created: 2023-09-29 18:34
----
 # Description
 Notes about what is and how works a Reverse shell
 # Reverse Shell
