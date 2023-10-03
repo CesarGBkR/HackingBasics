@@ -149,14 +149,14 @@
   },
   "active": "a052b820b4a0c5e9",
   "lastOpenFiles": [
-    "Concepts/Shell.md",
     "Concepts/RSA.md",
-    "Templates/Note.md",
+    "Concepts/Reverse Shell.md",
+    "Concepts/Shell.md",
     "Concepts/SSH Secure Shell.md",
+    "Templates/Note.md",
     "README.md",
     "Concepts/attachments/Diseño_sin_título-removebg-preview.png",
     "Concepts/attachments/Pasted image 20230930191805.png",
-    "Concepts/Reverse Shell.md",
     "Concepts/attachments",
     "Concepts",
     "Templates"
