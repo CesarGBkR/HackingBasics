@@ -9,8 +9,10 @@ Secure Shell o  mejor conocido como SSH es un protocolo de conexión que nos per
 Esta conexión por estándar se genera por medio del **puerto 22**
 
 Existe una gran cantidad de ventajas y aplicaciones para este protocolo como la gestión de un sistema de forma remota, pero al igual que ventajas también tiene sus desventajas. Este protocolo al permitir un acceso remoto a nuestro sistema de forma legítima nos puede dejar vulnerables a ataques si no está configurado de la forma apropiada, a su vez, como atacantes, este puede ser un foco de atención importante para ganar acceso a un sistema objetivo.
+<p align="center">
+<img alt="academy" widith="150" height="150" src="https://github.com/CesarGBkR/HackingBasics/blob/main/Concepts/attachments/Pasted%20image%2020230930191805.png?raw=true">
+</p>
 
-![[Pasted image 20230930191805.png|150]]
 # References
 
 https://www.arsys.es/blog/ssh
