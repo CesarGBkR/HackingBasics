@@ -9,7 +9,7 @@ Información sobre que es una Shell y los diferentes tipos para el proyecto **Ha
 ## ¿Qué es?
 Se trata de un programa que provee una interfaz de usuario para mediar entre el usuario y el sistema operativo.  Se puede considerar un interprete de ordenes o comandos. Los Shells pueden ser de líneas de texto, gráficos o de lenguaje natural.
 **Su principal función es interpretar las peticiones del usuario y transmitirlas al sistema operativo.**
-
+![[Pasted image 20231004213459.png]]
 ## Tipos
 Existe una gran variedad de shells las cuales puedes adaptar y customizar a tus necesidades y gustos. Pueden estar hechas para un solo sistema operativo o ser multiplataforma, entre ellas podemos encontrar
 ### Linux

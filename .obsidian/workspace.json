@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/SSH Secure Shell.md",
+                "file": "Concepts/Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/SSH Secure Shell.md",
+                "file": "Concepts/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/SSH Secure Shell.md",
+                "file": "Concepts/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/SSH Secure Shell.md"
+                "file": "Concepts/Shell.md"
               }
             }
           }
@@ -149,9 +149,14 @@
   },
   "active": "a052b820b4a0c5e9",
   "lastOpenFiles": [
-    "Concepts/Shell.md",
-    "Concepts/RSA.md",
+    "Pasted image 20231004213459.png",
     "Concepts/Reverse Shell.md",
+    "Concepts/attachments/Pasted image 20230930191805.png",
+    "Concepts/attachments/Diseño_sin_título-removebg-preview.png",
+    "Concepts/Shell.md",
+    "Pasted image 20231004213256.png",
+    "Concepts/SSH Secure Shell.md",
+    "Concepts/RSA.md",
     "Templates/Note.md",
     "README.md",
     "Writeups/TCM/PEH/Academy.pdf",
@@ -159,9 +164,6 @@
     "Writeups/TCM",
     "Writeups",
     "Untitled.md",
-    "Concepts/SSH Secure Shell.md",
-    "Concepts/attachments/Diseño_sin_título-removebg-preview.png",
-    "Concepts/attachments/Pasted image 20230930191805.png",
     "Concepts/attachments",
     "Concepts",
     "Templates"
