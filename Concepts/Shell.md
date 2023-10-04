@@ -11,10 +11,8 @@ Se trata de un programa que provee una interfaz de usuario para mediar entre el 
 **Su principal función es interpretar las peticiones del usuario y transmitirlas al sistema operativo.**
 
 <p align="center">
-<img alt="academy" widith="150" height="150" src="https://github.com/CesarGBkR/HackingBasics/blob/main/Concepts/attachments/Dise%C3%B1o_sin_t%C3%ADtulo-removebg-preview.png?raw=true">
+<img alt="academy" widith="150" height="150" src="https://github.com/CesarGBkR/HackingBasics/blob/main/Concepts/attachments/Pasted%20image%2020231004213459.png?raw=true">
 </p>
-
-![[Pasted image 20231004213459.png|150]]
 
 ## Tipos
 Existe una gran variedad de shells las cuales puedes adaptar y customizar a tus necesidades y gustos. Pueden estar hechas para un solo sistema operativo o ser multiplataforma, entre ellas podemos encontrar
